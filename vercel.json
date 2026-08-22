@@ -2,8 +2,8 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
-      "source": "/s/:path*",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/s/:path*"
+      "source": "/:path*",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/:path*"
     }
   ]
 }
