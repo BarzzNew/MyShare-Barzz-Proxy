@@ -2,8 +2,40 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
-      "source": "/:path*",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/:path*"
+      "source": "/",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/"
+    },
+    {
+      "source": "/s/:id",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/s/:id"
+    },
+    {
+      "source": "/go/:id/:stage",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/go/:id/:stage"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/api/:path*"
+    },
+    {
+      "source": "/normal/:path*",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/normal/:path*"
+    },
+    {
+      "source": "/vip/:path*",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/vip/:path*"
+    },
+    {
+      "source": "/style.css",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/style.css"
+    },
+    {
+      "source": "/app.js",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/app.js"
+    },
+    {
+      "source": "/home.css",
+      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/home.css"
     }
   ]
 }
