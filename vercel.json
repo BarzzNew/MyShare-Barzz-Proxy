@@ -3,39 +3,39 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/"
     },
     {
       "source": "/s/:id",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/s/:id"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/s/:id"
     },
     {
       "source": "/go/:id/:stage",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/go/:id/:stage"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/go/:id/:stage"
     },
     {
       "source": "/api/:path*",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/api/:path*"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/api/:path*"
     },
     {
       "source": "/normal/:path*",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/normal/:path*"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/normal/:path*"
     },
     {
       "source": "/vip/:path*",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/vip/:path*"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/vip/:path*"
     },
     {
       "source": "/style.css",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/style.css"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/style.css"
     },
     {
       "source": "/app.js",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/app.js"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/app.js"
     },
     {
       "source": "/home.css",
-      "destination": "http://panelprivatby-niellxynnheysaka.private-rexy.web.id:11400/home.css"
+      "destination": "http://panelwayzandiwaw.pteroq.biz.id:10944/home.css"
     }
   ]
 }
